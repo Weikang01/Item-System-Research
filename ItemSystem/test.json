@@ -1,0 +1,11 @@
+{
+    "Greate Sword" :
+    {
+        "part" : 6,
+        "layer" : 3,
+        "length" : 1500,
+        "weight" : 2000000,
+        "size" : "5,2",
+        "max stack" : 1
+    }
+}
